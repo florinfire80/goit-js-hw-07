@@ -1,5 +1,6 @@
 import { galleryItems } from "./gallery-items.js";
 console.dir(galleryItems); //verific daca am legat bine codul
+
 // Change code below this line
 
 const listEl = document.querySelector(".gallery"); //identific clasa la care ma raportez (.gallery), pot verifica cu "console.dir(listEl)"
